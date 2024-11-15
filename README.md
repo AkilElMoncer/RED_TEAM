@@ -1,5 +1,7 @@
-Tout d'abord pour demader le vpn 
+Tout d'abord pour demader le vpn
+
 sudo openvpn --config akil.ovpn
+
 sudo route -n add -net 192.168.40.0/24 -interface utun3
 
 
