@@ -1,4 +1,7 @@
-Tout d'abord pour demader le vpn
+Dans cet exercice, il ne s'agit pas d'une véritable entreprise ni de vraies personnes. Tout ce qui est présenté ici a pour objectif d'être utilisé à des fins éducatives, afin de s'entraîner.
+
+
+Tout d'abord, pour demader le vpn
 
 sudo openvpn --config akil.ovpn
 
