@@ -12,4 +12,4 @@ Ensuite, voici à quoi ressemble mon fichier /etc/hosts :
 
 ![Capture d’écran 2024-11-14 à 16 00 35](https://github.com/user-attachments/assets/09392315-4757-494f-98ab-cc74ef0e38c4)
 
-Vous pouvez regarde la suite sur le pdf dans le dossier RED_TEAM_FINAL.
+Vous pouvez regarde la suite sur le pdf ReportTemplate_AKIL et les instruction dans LettreMission.
