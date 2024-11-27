@@ -2,6 +2,7 @@ Dans cet exercice, il ne s'agit pas d'une véritable entreprise ni de vraies per
 
 
 Pour se connecter à distance, il faut d'abord exécuter les commandes suivantes :
+
 sudo openvpn --config akil.ovpn
 
 sudo route -n add -net 192.168.40.0/24 -interface utun3
