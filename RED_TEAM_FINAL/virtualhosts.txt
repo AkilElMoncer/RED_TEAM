@@ -1,0 +1,15 @@
+www
+home
+admin
+panel
+dev
+devapp
+app
+sub
+files
+auth
+file
+asset
+assets
+uat
+prod

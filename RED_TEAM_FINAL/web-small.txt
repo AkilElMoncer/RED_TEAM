@@ -1,0 +1,17 @@
+home
+default
+index
+login
+auth
+pages
+upload
+uploads
+admin
+test
+inc
+dev
+uat
+prod
+backup
+site
+info
