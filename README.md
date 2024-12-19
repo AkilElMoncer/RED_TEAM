@@ -1,4 +1,4 @@
-# README - Connexion au Réseau VPN pour Exercice Éducatif
+# Connexion au Réseau VPN
 
 Ce guide fournit les étapes nécessaires pour se connecter à un réseau VPN dans le cadre d'un exercice éducatif. Ce projet est fictif et a pour seul objectif de permettre un entraînement à des fins pédagogiques.
 
